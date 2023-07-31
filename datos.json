@@ -2,7 +2,7 @@
   "departamentos": [
     {
       "departamento" : "Alta Verapaz",
-      "municipio" : [
+      "municipios" : [
         "Chahal",
         "Chisec",
         "Cobán",
@@ -24,7 +24,7 @@
     },
     {
       "departamento" :"Baja Verapaz",
-      "municipio" : [
+      "municipios" : [
         "Cubulco",
         "Granados",
         "Purulhá",
@@ -37,7 +37,7 @@
     },
     {
       "departamento" :"Chimaltenango",
-      "municipio" : [
+      "municipios" : [
         "Acatenango",
         "Chimaltenango",
         "El Tejar",
@@ -58,7 +58,7 @@
     },
     {
       "departamento" : "Chiquimula",
-      "municipio" : [
+      "municipios" : [
         "Camotán",
         "Chiquimula",
         "Concepción Las Minas",
@@ -74,7 +74,7 @@
     },
     {
       "departamento" : "El Progreso",
-      "municipio" : [
+      "municipios" : [
         "El Jícaro",
         "Guastatoya",
         "Morazán",
@@ -86,7 +86,7 @@
     },
     {
       "departamento" : "Escuintla",
-      "municipio" : [
+      "municipios" : [
         "Escuintla",
         "Guanagazapa",
         "Iztapa",
@@ -104,7 +104,7 @@
     },
     {
       "departamento" : "Guatemala",
-      "municipio" : [
+      "municipios" : [
         "Amatitlán",
         "Chinautla",
         "Chuarrancho",
@@ -125,7 +125,7 @@
     },
     {
       "departamento" : "Huehuetenango",
-      "municipio" : [
+      "municipios" : [
         "Aguacatán",
         "Chiantla",
         "Colotenango",
@@ -161,7 +161,7 @@
     },
     {
       "departamento" : "Izabal",
-      "municipio" : [
+      "municipios" : [
         "El Estor",
         "Livingston",
         "Los Amates",
@@ -171,7 +171,7 @@
     },
     {
       "departamento" : "Jalapa",
-      "municipio" : [
+      "municipios" : [
         "Jalapa",
         "Mataquescuintla",
         "Monjas",
@@ -183,7 +183,7 @@
     },
     {
       "departamento" : "Jutiapa",
-      "municipio" : [
+      "municipios" : [
         "Agua Blanca",
         "Asunción Mita",
         "Atescatempa",
@@ -205,7 +205,7 @@
     },
     {
       "departamento" : "Petén",
-      "municipio" : [
+      "municipios" : [
         "Dolores",
         "Flores",
         "La Libertad",
@@ -223,7 +223,7 @@
     },
     {
       "departamento" : "Quetzaltenango",
-      "municipio" : [
+      "municipios" : [
         "Almolonga",
         "Cabricán",
         "Cajolá",
@@ -252,7 +252,7 @@
     },
     {
       "departamento" : "Quiché",
-      "municipio" : [
+      "municipios" : [
         "Canillá",
         "Chajul",
         "Chicamán",
@@ -278,7 +278,7 @@
     },
     {
       "departamento" : "Retalhuleu",
-      "municipio" : [
+      "municipios" : [
         "Champerico",
         "El Asintal",
         "Nuevo San Carlos",
@@ -292,7 +292,7 @@
     },
     {
       "departamento" : "Sacatepéquez",
-      "municipio" : [
+      "municipios" : [
         "Alotenango",
         "Antigua",
         "Ciudad Vieja",
@@ -313,7 +313,7 @@
     },
     {
       "departamento" : "San Marcos",
-      "municipio" : [
+      "municipios" : [
         "Ayutla",
         "Catarina",
         "Comitancillo",
@@ -347,7 +347,7 @@
     },
     {
       "departamento" : "Santa Rosa",
-      "municipio" : [
+      "municipios" : [
         "Barberena",
         "Casillas",
         "Chiquimulilla",
@@ -366,7 +366,7 @@
     },
     {
       "departamento" : "Sololá",
-      "municipio" : [
+      "municipios" : [
         "Concepción",
         "Nahualá",
         "Panajachel",
@@ -390,7 +390,7 @@
     },
     {
       "departamento" : "Suchitepéquez",
-      "municipio" : [
+      "municipios" : [
         "Chicacao",
         "Cuyotenango",
         "Mazatenango",
@@ -415,7 +415,7 @@
     },
     {
       "departamento" : "Totonicapán",
-      "municipio" : [
+      "municipios" : [
         "Momostenango",
         "San Andrés Xecul",
         "San Bartolo",
@@ -428,7 +428,7 @@
     },
     {
       "departamento" : "Zacapa",
-      "municipio" : [
+      "municipios" : [
         "Cabañas",
         "Estanzuela",
         "Gualán",

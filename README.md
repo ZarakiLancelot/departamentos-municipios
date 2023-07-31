@@ -34,47 +34,49 @@ GET /api/datos
 Como pueden ver es una petición del tipo `GET` hacia la ruta `/api/datos`. Esta devuelve un JSON con todos los departamentos y municipios de Guatemala con la siguiente estructura:
 
 ```JSON
-[
-  {
-    "departamento" : "Escuintla",
-    "municipio" : [
-      "Escuintla",
-      "Guanagazapa",
-      "Iztapa",
-      "La Democracia",
-      "La Gomera",
-      "Masagua",
-      "Nueva Concepción",
-      "Palín",
-      "San José",
-      "San Vicente Pacaya",
-      "Santa Lucía Cotzumalguapa",
-      "Siquinalá",
-      "Tiquisate"
-    ]
-  },
-  {
-    "departamento" : "Guatemala",
-    "municipio" : [
-      "Amatitlán",
-      "Chinautla",
-      "Chuarrancho",
-      "Fraijanes",
-      "Guatemala City",
-      "Mixco",
-      "Palencia",
-      "Petapa",
-      "San José del Golfo",
-      "San José Pinula",
-      "San Juan Sacatepéquez",
-      "San Pedro Ayampuc",
-      "San Pedro Sacatepéquez",
-      "San Raymundo",
-      "Santa Catarina Pinula",
-      "Villa Canales"
-    ]
-  }
-]
+{
+  "departamentos": [
+    {
+      "departamento" : "Escuintla",
+      "municipios" : [
+        "Escuintla",
+        "Guanagazapa",
+        "Iztapa",
+        "La Democracia",
+        "La Gomera",
+        "Masagua",
+        "Nueva Concepción",
+        "Palín",
+        "San José",
+        "San Vicente Pacaya",
+        "Santa Lucía Cotzumalguapa",
+        "Siquinalá",
+        "Tiquisate"
+      ]
+    },
+    {
+      "departamento" : "Guatemala",
+      "municipios" : [
+        "Amatitlán",
+        "Chinautla",
+        "Chuarrancho",
+        "Fraijanes",
+        "Guatemala City",
+        "Mixco",
+        "Palencia",
+        "Petapa",
+        "San José del Golfo",
+        "San José Pinula",
+        "San Juan Sacatepéquez",
+        "San Pedro Ayampuc",
+        "San Pedro Sacatepéquez",
+        "San Raymundo",
+        "Santa Catarina Pinula",
+        "Villa Canales"
+      ]
+    }
+  ]
+}
 ```
 
 
