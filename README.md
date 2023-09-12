@@ -1,4 +1,7 @@
 # Departamentos y Municipios de GUATEMALA
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2d5cab90-2a48-43de-bb8c-b1e40e4dc1b4/deploy-status)](https://app.netlify.com/sites/departamentos-municipios-guatemala/deploys)
+
+
 JSON para obtener los departamentos y sus respectivos municipios de Guatemala.
 
 ## Descripción
